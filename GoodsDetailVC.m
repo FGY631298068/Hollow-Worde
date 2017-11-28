@@ -28,14 +28,9 @@
 @property (nonatomic ,strong) GoodsVC  *thirdVC;
 @property (nonatomic ,strong) DetailVC  *firstVC;
 @property (nonatomic ,strong) AppraiseVC *secondVC;
-
 @property (nonatomic ,strong) UIViewController *currentVC;
-
 @property (nonatomic ,strong) UIScrollView *backScrollview;  //  顶部滚动视图
-
 @property (nonatomic ,strong) NSArray *headArray;
-
-
 @property (nonatomic ,strong) AddressPickerView * pickerView;
 @end
 
