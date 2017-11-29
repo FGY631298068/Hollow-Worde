@@ -17,7 +17,7 @@
     UIButton *goodsButton;
     UIButton *detailButton;
     UIButton *appraiseButton;
-//    UIScrollView *backScrollview;
+    UIScrollView *backScrollview;
     UIView *redLine;
     UIView *downView;
     UIView *tipView;
