@@ -12,6 +12,9 @@
 #import "DetailVC.h"
 #import "AppraiseVC.h"
 
+
+__autoreleasing
+
 @interface GoodsDetailVC ()<AddressPickerViewDelegate,UIScrollViewDelegate>{
     UIView *aview;
     UIButton *goodsButton;
